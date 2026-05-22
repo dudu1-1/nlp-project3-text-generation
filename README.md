@@ -18,7 +18,7 @@
 - 内置库：collections、time、random
 
 ## 运行方式
-打开 `project3_text_generation.ipynb`，逐 cell 运行即可。
+运行方式：打开 `nlp_project3.ipynb`，逐 cell 运行即可。
 
 ## 核心实验结果
 - **温度=0.2**：输出保守稳定，语句流畅，TTR≈0.767，重复率≈0.033，生成耗时≈0.016s
