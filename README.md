@@ -11,7 +11,7 @@
 - 可视化结果：`params_effect.png`（生成策略综合对比图）、`training_loss_curve.png`（模型训练损失曲线）
 
 ## 运行环境
-- Python 3.8+
+- Python 3.9
 - PyTorch
 - Transformers
 - Datasets
